@@ -4,12 +4,14 @@
 
 #ifndef GRAPH_PUZZLE_GAME_HIDAYETERENULUDAG_MAIN_H
 #define GRAPH_PUZZLE_GAME_HIDAYETERENULUDAG_MAIN_H
+#include "iostream"
+#include "dict.txt"
 
-
-class main {
-
-
-
+class test{
+    int fives;
+    int threes;
+    int fours;
+    char location;
 };
 
 

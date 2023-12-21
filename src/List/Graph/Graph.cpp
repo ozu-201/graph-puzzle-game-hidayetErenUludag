@@ -9,7 +9,7 @@
 
 namespace list {
 
-    Graph::Graph(int _vertexCount) : AbstractGraph(_vertexCount){
+    Graph::Graph() : AbstractGraph(_vertexCount){
         edges = new EdgeList[vertexCount];
         for (int i = 0; i < vertexCount; i++) {
             edges[i] = EdgeList();

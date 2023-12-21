@@ -3,22 +3,21 @@
 //
 
 #include <string>
-#include <sstream>
 #include <iostream>
-#include <winnls.h>
-#include "main.h"
 #include "fstream"
 #include "vector"
 #include <windows.h>
-
-
+#include "src/List/Graph/Graph.h"
+#include "src/List/Graph/Graph.cpp"
+#pragma execution_character_set( "utf-8" )
 using namespace std;
 
-#pragma execution_character_set( "utf-8" )
 
 int main(){
-//    SetConsoleOutputCP(CP_UTF8);
     SetConsoleOutputCP( 65001 );
+
+    list::Graph test;
+    test.addEdge()
 
     vector<string> threes;
     vector<string> fours;
@@ -45,5 +44,14 @@ int main(){
 
             }
         }
+    for(string g:threes){
+        cout<<g<< endl;
+    }
+    for(string g:fours){
+        cout<<g<< endl;
+    }
+    for(string g:fives){
+        cout<<g<< endl;
+    }
     file.close();
 }

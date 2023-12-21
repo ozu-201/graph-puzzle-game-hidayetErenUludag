@@ -15,7 +15,7 @@ namespace list {
     private:
         EdgeList *edges;
     public:
-        explicit Graph(int vertexCount);
+        explicit Graph();
         ~Graph();
         void addEdge(int from, int to);
         void addEdge(int from, int to, int weight);

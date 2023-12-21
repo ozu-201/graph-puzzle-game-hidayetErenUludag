@@ -1,12 +1,24 @@
 //
-// Created by eu034534 on 12/14/2023.
+// Created by eu034534 on 12/21/2023.
 //
 
-#include "streambuf"
-#include "C:\Users\TEMP.OZUN.000\CLionProjects\graph-puzzle-game-hidayetErenUludag\src\List\Graph\Edge.h"
+#include <string>
+#include <sstream>
 #include "main.h"
-#include "dict.txt"
-#include "filesystem"
-def test(){
+#include "fstream"
+#include "vector"
+using namespace std;
 
-};
+
+int main(){
+    string filePath = "path.txt";
+    wstring line;
+    if (getline(filePath,line)){
+        wstringstream w;
+        wstring ad;
+        vector<wistream> aldi;
+        if(getline(w, ad, L",")){
+        }
+
+    }
+}

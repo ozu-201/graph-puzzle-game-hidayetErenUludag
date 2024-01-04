@@ -88,7 +88,7 @@ int main(){
     addEdgeIfAdj(threes,threeGraph);
     addEdgeIfAdj(fours,foursGraph);
     addEdgeIfAdj(fives,fivesGraph);
-/*
+
     for(string& g:threes){
         cout<<g<< endl;
     }
@@ -99,7 +99,7 @@ int main(){
         cout<<g<< endl;
     }
     file.close();
-    */
+
     shortestPath("cali","cati",threeGraph,threes);
 }
 

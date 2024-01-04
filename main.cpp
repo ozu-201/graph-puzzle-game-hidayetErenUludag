@@ -36,6 +36,18 @@ void addEdgeIfAdj(std::vector<std::string> length, array::Graph my_Graph){
     }
 }
 
+int shortestPath(string start, string end, array::Graph my_graph,std::vector<std::string> lengthcome){
+    int lenght = start.size();
+    int lenght2 = end.size();
+    if(lenght != lenght2 || lenght<3 || lenght>5){
+        cout << "requirements are not met" << endl;
+        return 0;
+    }
+    bool* visited = new bool[lengthcome.size()];
+    my_graph.breadthFirstSearch(visited, 4);
+    return 1;
+}
+
 int main(){
     //Changes the console output to utf-98 to be able to display turkish characters.
     SetConsoleOutputCP( 65001 );
@@ -76,7 +88,7 @@ int main(){
     addEdgeIfAdj(threes,threeGraph);
     addEdgeIfAdj(fours,foursGraph);
     addEdgeIfAdj(fives,fivesGraph);
-
+/*
     for(string& g:threes){
         cout<<g<< endl;
     }
@@ -87,6 +99,8 @@ int main(){
         cout<<g<< endl;
     }
     file.close();
+    */
+    shortestPath("cali","cati",threeGraph,threes);
 }
 
 

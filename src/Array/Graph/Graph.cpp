@@ -3,6 +3,7 @@
 //
 
 #include <vector>
+#include <iostream>
 #include "Graph.h"
 #include "../DisjointSet.h"
 #include "../Queue.h"
@@ -69,6 +70,7 @@ namespace array{
         queue.enqueue( Element(startNode));
         while (!queue.isEmpty()){
             fromNode = queue.dequeue().getData();
+            std::cout << fromNode << std::endl;
             for (int toNode = 0; toNode < vertexCount; toNode++) {
                 if (edges[fromNode][toNode] > 0) {
                     if (!visited[toNode]){

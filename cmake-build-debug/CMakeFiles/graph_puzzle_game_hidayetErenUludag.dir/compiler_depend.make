@@ -426,10 +426,11 @@ CMakeFiles/graph_puzzle_game_hidayetErenUludag.dir/src/Array/Graph/Graph.cpp.obj
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/hash_bytes.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/range_access.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/vector.tcc \
-  C:/Users/TEMP.OZUN.000/CLionProjects/graph-puzzle-game-hidayetErenUludag/src/Array/Graph/Graph.h \
-  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/string \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iostream \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ostream \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ios \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iosfwd \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stringfwd.h \
-  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/char_traits.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/postypes.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cwchar \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
@@ -445,26 +446,27 @@ CMakeFiles/graph_puzzle_game_hidayetErenUludag.dir/src/Array/Graph/Graph.cpp.obj
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/exception \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/exception_ptr.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stddef.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/typeinfo \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/nested_exception.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/char_traits.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cstdint \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdint.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/stdint.h \
-  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
-  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stddef.h \
-  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/localefwd.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/clocale \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/locale.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iosfwd \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cctype \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/ctype.h \
-  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ostream_insert.h \
-  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/cxxabi_forced.h \
-  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_function.h \
-  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward/binders.h \
-  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_string.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ios_base.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/atomicity.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
@@ -486,6 +488,13 @@ CMakeFiles/graph_puzzle_game_hidayetErenUludag.dir/src/Array/Graph/Graph.cpp.obj
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_classes.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/string \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ostream_insert.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/cxxabi_forced.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_function.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward/binders.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_string.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/string_view \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/string_view.tcc \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/string_conversions.h \
@@ -500,6 +509,25 @@ CMakeFiles/graph_puzzle_game_hidayetErenUludag.dir/src/Array/Graph/Graph.cpp.obj
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cerrno \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/charconv.h \
   C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_string.tcc \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_classes.tcc \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/system_error \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/stdexcept \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/streambuf \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/streambuf.tcc \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_ios.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_facets.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cwctype \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/streambuf_iterator.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_facets.tcc \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_ios.tcc \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ostream.tcc \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream \
+  C:/Program\ Files/JetBrains/CLion\ 2023.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc \
+  C:/Users/TEMP.OZUN.000/CLionProjects/graph-puzzle-game-hidayetErenUludag/src/Array/Graph/Graph.h \
   C:/Users/TEMP.OZUN.000/CLionProjects/graph-puzzle-game-hidayetErenUludag/src/General/AbstractGraph.h \
   C:/Users/TEMP.OZUN.000/CLionProjects/graph-puzzle-game-hidayetErenUludag/src/General/Path.h \
   C:/Users/TEMP.OZUN.000/CLionProjects/graph-puzzle-game-hidayetErenUludag/src/List/Graph/Edge.h \

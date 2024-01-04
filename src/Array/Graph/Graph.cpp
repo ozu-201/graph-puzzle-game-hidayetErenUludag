@@ -2,11 +2,13 @@
 // Created by Olcay Taner YILDIZ on 8.05.2023.
 //
 
+#include <vector>
 #include "Graph.h"
 #include "../DisjointSet.h"
 #include "../Queue.h"
 #include "../Heap/Heap.h"
 #include "../Heap/MinHeap.h"
+#include "string"
 
 namespace array{
 
@@ -180,5 +182,6 @@ namespace array{
             }
         }
     }
+
 
 }

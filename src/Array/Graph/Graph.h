@@ -6,6 +6,7 @@
 #define DATASTRUCTURES_CPP_GRAPH_H
 
 
+#include <string>
 #include "../../General/AbstractGraph.h"
 #include "../../List/Graph/Edge.h"
 
@@ -27,6 +28,7 @@ namespace array{
         void depthFirstSearch(bool* visited, int fromNode) override;
         void breadthFirstSearch(bool* visited, int startNode) override;
         Edge* edgeList(int& edgeCount) override;
+        void addEdgeIfAdj(std::string first, std::string second, std::vector<std::string> length);
     };
 
 }
